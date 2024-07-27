@@ -1,0 +1,27 @@
+{
+  "name": "tsg-list",
+  "description": "tsg-list",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "docs:build": "vuepress-vite build src",
+    "docs:clean-dev": "vuepress-vite dev src --clean-cache",
+    "docs:dev": "vuepress-vite dev src",
+    "docs:update-package": "npx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.14",
+    "dash.js": "^4.0.0",
+    "hls.js": "^1.5.13",
+    "reveal.js": "^5.1.0",
+    "vidstack": "^1.11.30",
+    "vue": "^3.4.31",
+    "vuepress": "2.0.0-rc.14",
+    "vuepress-plugin-container": "^2.1.5",
+    "vuepress-theme-hope": "2.0.0-rc.52"
+  },
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
