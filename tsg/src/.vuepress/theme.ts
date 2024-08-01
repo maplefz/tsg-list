@@ -88,9 +88,9 @@ export default hopeTheme({
 
       // 启用Algolia搜索
       docsearch:({
-        appId: "IHKI4Y4FSF",
-        apiKey: "a2e3a050e501cf76d34612e8ac4c2020",
-        indexName: "tsg-list",
+        appId: "appId",
+        apiKey: "apiKey",
+        indexName: "indexName",
         disableUserPersonalization: true,  // 不使用收藏和搜索历史
   
         locales: {
