@@ -2,7 +2,7 @@
 
 tsg-list VuePress
 
-20240727备份
+20240801备份
 
 post分支为VuePress源码
 
@@ -15,4 +15,11 @@ npm install moment
 npm install -D vuepress-plugin-container
 npm i -D reveal.js
 npm i -D vidstack@next
+npm i -D @vuepress/plugin-docsearch@next 或 pnpm add -D @vuepress/plugin-docsearch@next
 ```
+
+--20240801更新
+配置algolia搜索。
+
+--20240727更新
+项目建立。
