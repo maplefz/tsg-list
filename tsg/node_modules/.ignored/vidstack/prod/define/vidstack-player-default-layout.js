@@ -1,0 +1,22 @@
+import { defineCustomElement } from '../chunks/vidstack-C6myozhB.js';
+import { MediaAudioLayoutElement } from './vidstack-audio-layout-el.js';
+import { MediaVideoLayoutElement } from './vidstack-video-layout-el.js';
+import '../chunks/vidstack-CfgNm3CB.js';
+import '../chunks/vidstack-Cq-GdDcp.js';
+import '../chunks/vidstack-BeyDmEgV.js';
+import '@floating-ui/dom';
+import 'lit-html';
+import '../chunks/vidstack-BUfQcGbf.js';
+import 'lit-html/directives/if-defined.js';
+import 'lit-html/directives/unsafe-svg.js';
+import 'lit-html/async-directive.js';
+import '../chunks/vidstack-D2w309v1.js';
+import '../chunks/vidstack-BOTZD4tC.js';
+import 'lit-html/directives/ref.js';
+import '../chunks/vidstack-Vi2h5MrZ.js';
+import '../chunks/vidstack-B9TAFm_g.js';
+import '../chunks/vidstack-D2YigfqZ.js';
+import 'lit-html/directives/keyed.js';
+
+defineCustomElement(MediaAudioLayoutElement);
+defineCustomElement(MediaVideoLayoutElement);

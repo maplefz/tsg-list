@@ -1,0 +1,13 @@
+<template><div><p>剧集名：文豪少年!～杰尼斯Jr.解读名著～</p>
+<p>タイトル：文豪少年！～ジャニーズJr.で名作を読み解いた～</p>
+<p>电视台：WOWOW</p>
+<p>播放日期：2021-03-21</p>
+<p>集数：10</p>
+<p>官网: <a href="https://www.wowow.co.jp/detail/172031" target="_blank" rel="noopener noreferrer">本剧集官网</a></p>
+<p>豆瓣链接： <a href="https://movie.douban.com/subject/35322368/" target="_blank" rel="noopener noreferrer">豆瓣主页</a></p>
+<p>简介：有一间书吧，书架上却没有放着书。当心怀愁思的少年走入书吧时，书吧老板会递给少年一本正正适合他的书。少年们翻开书后，他们的人生便发生了一点点变化，新世界的大门打开了。</p>
+<p>cast：黒田光輝/ヴァサイェガ渉/田村海琉&amp;小田将聖/川﨑皇輝 /檜山光成&amp;安嶋秀生/深田竜生/織山尚大/北川拓実/元木湧/内村颯太</p>
+<figure><img src="https://listpic.tsgsanjiao.com/2021/2021whsn.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+</div></template>
+
+
