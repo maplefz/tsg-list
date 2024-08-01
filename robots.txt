@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://weibo.com/u/2606228641/sitemap.xml
